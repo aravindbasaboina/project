@@ -1,7 +1,7 @@
 public class sample
 {
-	public static void main(strings args[])
+	public static void main(String args[])
 	{
-		system.out.print("Basaboina Aravind");
+		System.out.print("Basaboina Aravind");
 	}
 }
